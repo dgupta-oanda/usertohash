@@ -1,0 +1,8 @@
+setup.py
+usertohash.py
+usertohash.egg-info/PKG-INFO
+usertohash.egg-info/SOURCES.txt
+usertohash.egg-info/dependency_links.txt
+usertohash.egg-info/entry_points.txt
+usertohash.egg-info/requires.txt
+usertohash.egg-info/top_level.txt
